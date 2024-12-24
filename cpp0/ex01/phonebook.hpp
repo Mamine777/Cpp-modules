@@ -6,7 +6,7 @@
 /*   By: mokariou <mokariou@student.s19.be>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/21 14:17:36 by mokariou          #+#    #+#             */
-/*   Updated: 2024/12/23 17:12:26 by mokariou         ###   ########.fr       */
+/*   Updated: 2024/12/24 16:49:40 by mokariou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,7 @@
 #include <iostream>
 #include <string>
 #include <cstring>
+#include <iomanip>
 
 class contact
 {
